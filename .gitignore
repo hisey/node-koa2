@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+./back-end/sftpConfig.js
+./front-end/sftpConfig.js
+./front-end/sftpConfig.js
+back-end/sftpConfig.js
+front-end2/sftpConfig.js
+back-end/uploadFiles/
